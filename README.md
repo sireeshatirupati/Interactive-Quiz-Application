@@ -1,19 +1,17 @@
-# Interactive Quiz Application
+# 🧠 Interactive Quiz App - Live & Working
 
-A responsive quiz app with timer and instant results.
+🔴 Live Demo: https://sireeshatirupati.github.io/Interactive-Quiz-App/ 📁 Source Code: https://github.com/sireeshatirupati/Interactive-Quiz-App
+
+### Tech Stack Used
+- HTML5, CSS3, JavaScript
+- Java
+- GitHub Pages Hosting
 
 ### Features
-- Timed multiple-choice questions
-- Auto score calculation
-- Shuffled questions every time
-- Result page with correct/incorrect answers
+- Timed Multiple Choice Questions
+- Instant Score Calculation & Result Display
+- Fully Responsive for Mobile & Laptop
+- Question Shuffling on Every Attempt
+- Review Correct / Wrong Answers
 
-### Built With
-Java, HTML, CSS, JavaScript
-
-### How to Run
-Just open index.html in browser
-
-### Author
-Sireesha Tirupati
-https://github.com/sireeshatirupati
+Developed by Sireesha Tirupati - Open to Frontend Roles!
