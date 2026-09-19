@@ -1,6 +1,6 @@
 # 🧠 Interactive Quiz App - Live & Working
 
-🔴 Live Demo: https://sireeshatirupati.github.io/Interactive-Quiz-Application/📁 Source Code: https://sireeshatirupati.github.io/Interactive-Quiz-Application/
+🔴 Live Demo: https://sireeshatirupati.github.io/Interactive-Quiz-Application/ Source Code: https://sireeshatirupati.github.io/Interactive-Quiz-Application/
 
 ### Tech Stack Used
 - HTML5, CSS3, JavaScript
